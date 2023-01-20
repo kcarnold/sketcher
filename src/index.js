@@ -1,6 +1,6 @@
 import { html, render } from "lit-html";
 
-import "./styles.css";
+//import "./styles.css";
 let app = document.getElementById("app");
 
 let size = 224;
